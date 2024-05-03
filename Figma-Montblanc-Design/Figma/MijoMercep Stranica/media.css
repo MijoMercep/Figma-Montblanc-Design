@@ -1,0 +1,9 @@
+@media only screen and (max-width: 375px){
+    html { overflow-y: scroll; }
+
+    body {
+
+        background-color: black;
+    }
+
+}

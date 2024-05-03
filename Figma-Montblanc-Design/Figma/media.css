@@ -1,0 +1,199 @@
+@media only screen and (max-width: 555px) {
+  html { overflow-y: scroll; 
+  overflow-x:hidden;}
+    body {
+      background-color: black;
+    }
+.container1{
+  
+    width: 100%;
+    height: 150vw;
+        left: 0%;  
+     top: 0%;
+      display: grid;
+  position: absolute;
+  
+}
+.slike{
+    top:20%;
+    width: 100%;
+    position: absolute;
+    display: flex;
+}
+.hide{
+display:none;
+
+}
+.montblanc{
+position:absolute;
+top:10%;
+display: flex;
+height: 7vw;
+
+}
+.hidden{
+
+  display: flex;
+}
+.krug{
+  position: absolute;
+  width: 40%;
+  
+  z-index: 2;
+  top: 65%;
+  left: 30%;
+  }
+  #span2{
+    position: absolute;
+font-weight: bold;
+font-size: 4vw;
+z-index: 3;
+color: white;
+top:100%;
+left: 20%;
+  }
+.tekst1{
+  font-size: 2.3vw;
+  z-index: 3;
+  color: grey;
+  top:105%;
+  left: 19.5%;
+  position: absolute;
+text-align: center;
+
+
+}
+.container2{
+  overflow-x:hidden;
+  position:absolute;
+  height: 300vw;
+  width: 100%;
+  top: 210vw;
+  left:0%;
+  
+  
+
+
+}
+.montblanc1{
+  position:absolute;
+  top: 1%;
+  display: flex;
+  height: 7vw;
+
+}
+
+.motor3{
+position: absolute;
+  width:110%;
+  height: 50vw;
+  z-index: 3;
+  top: 7%;
+  
+}
+
+.sidalo{
+  position: absolute;
+width: 110%;
+height: 70vw;
+top: 30%;
+
+
+}
+.kineska{
+  position: absolute;
+width: 120%;
+top: 53%;
+left: 0%;
+height: 20vw;
+z-index: 5;
+overflow: hidden;
+
+}
+.topspeed{
+
+  position: absolute;
+  transform: rotate(-90deg);
+  color: grey;
+  font-size: 4vw;
+  top: 60%;
+  left: 3%;
+  overflow: hidden;
+  
+}
+
+.tekst2{
+
+  position: absolute;
+  color: #FFFFFF;
+  font-size: 2vw;
+  overflow: hidden;
+  
+}
+
+.mph{
+  position: absolute;
+  color: #FFFFFF;
+  font-size: 7vw;
+font-weight: bold;
+overflow: hidden;
+white-space: nowrap;
+
+}
+.span2{
+position: absolute;
+    color: #FFFFFF;
+    font-size: 5vw;
+    top: 80%;
+    left: 12%;
+    letter-spacing: 0.3vw;
+    font-weight: bold;
+    overflow: hidden;
+}
+.rec{
+  position: absolute;
+
+
+left: 27%;
+
+
+}
+.tekst3{
+  position: absolute;
+  color: grey;
+  font-size: 2.5vw;
+  top:84%;
+  left: 12%
+
+
+}
+.srce1{
+position: absolute;
+top:92%;
+width: 15vw;
+left: 12%;
+
+}
+.srce2{
+  position: absolute;
+  top:93.7%;
+  width: 4.5vw;
+  left: 17%;
+
+}
+.rec4{
+
+  position: absolute;
+  top:92%;
+  width: 53vw;
+  left: 38%;
+
+}
+#span5{
+  position: absolute;
+  top:93.3%;
+  left: 48%;
+  color: black;
+  font-size: 5vw;
+}
+  }
